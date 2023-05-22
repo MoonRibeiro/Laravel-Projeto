@@ -1,0 +1,17 @@
+:root{
+    --bg-color:var(--bg-color)#FFE5B4;
+    --tex-color: black;
+    --main-color: #ff6961;
+    --other-color: #fcfcfc;
+    --h1-font: 4rem;
+    --p-font: 1rem;
+}
+
+
+.card{
+    background-color:#FFE5B4;
+}
+
+.btn{
+    background-color:#ff6961
+}
